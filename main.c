@@ -29,6 +29,5 @@ int main() {
         }
     }
     printf("Complete\n");
-    printf("The number of bag created are %d\n",count);
     return 0;
 }
